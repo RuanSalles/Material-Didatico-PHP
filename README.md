@@ -12,3 +12,10 @@ Neste treinamento iremos abordar de maneira simples, porém, bem completa divers
 
 O treinamento também contará com vídeo-aulas dos módulos que serão trabalhados no treinamento, a serem postados sobre demanda à medida que forem lançados os módulos em sequência serão lançados os vídeos abrangendo os conteúdos trabalhados no treinamento.
 
+<hr>
+
+# Sumário
+
+#### Introdução
+
+[1. Introdução](https://github.com/RuanSalles/Material-Didatico-PHP/blob/main/Introducao/Introducao.md)
