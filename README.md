@@ -16,6 +16,4 @@ O treinamento também contará com vídeo-aulas dos módulos que serão trabalha
 
 # Sumário
 
-#### Introdução
-
-[1. Introdução](https://github.com/RuanSalles/Material-Didatico-PHP/blob/main/Introducao/Introducao.md)
+#### [Introdução](https://github.com/RuanSalles/Material-Didatico-PHP/blob/main/Introducao/Introducao.md)
