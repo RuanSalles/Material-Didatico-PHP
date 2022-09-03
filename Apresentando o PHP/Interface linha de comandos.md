@@ -63,3 +63,43 @@ A seguir temos a tela dos retornos dos comandos dentro do nosso **Shell Interati
 </p>
 
 > Não se preocupe caso não entenda em si o que está acontecendo, logo mais você aprenderá todos os comandos e seus significados além de como utiliza-los.
+
+## Executando scripts com CLI
+
+Da mesma maneira que existe a possibilidade de execução dos comandos do PHP diretamente no Shell Interativo (console), o CLI do **PHP** também trás a possibilidade da execução de scripts PHP para interação via console.
+
+Inicialmente é importante entender a estrutura de um script **PHP**, abaixo você encontrará a estrutura básica para um script:
+
+~~~php
+
+<?php //TAG (comando) de abertura de um script PHP
+
+/* 
+Comandos Contidos no Script:
+
+echo - Output (impressão de valor em formado textual)
+PHP_EOL - Executa uma quebra de linha
+
+*/
+
+/* Divisão simples com PHP */ 
+echo 450 / 5 . PHP_EOL; 
+
+/* Potenciação simples com PHP */ 
+echo 2 ** 3 . PHP_EOL
+
+//Fechamento do Script PHP
+?>
+~~~
+
+> Em um Script que contenha apenas PHP não é necessário fechamento da TAG de abertura do PHP. O script irá ser executado sem falhas. Em caso de um script com formado **.php** mas que contenha alguma outra linguagem dentro do script será necessário o fechamento.
+
+Copie e cole o script, salve em um arquivo com o nome que preferir, colocando ao final **.php** como por exemplo: **script.php**, após isso abra um **Terminal** e digite o comando:
+
+~~~bash
+php script.php
+~~~
+
+Esse será o retorno que será impresso no seu Terminal:
+
+<img src="../assets/imgs/script.png">
