@@ -65,3 +65,5 @@ echo "Me chamo " . $nome . " e tenho " . $idade . " anos";
 ### Resultado Final
 
 <img src="../assets/imgs/exercicio1.png">
+
+Para acessar o script desenvolvido na aula: [Clique Aqui](https://github.com/RuanSalles/Material-Didatico-PHP/blob/main/scripts/Exercicio%20de%20Fixacao%2001/exercicio.php)
