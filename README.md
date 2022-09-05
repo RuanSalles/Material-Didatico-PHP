@@ -24,3 +24,5 @@ O treinamento também contará com vídeo-aulas dos módulos que serão trabalha
 [1.2. Preparando o Ambiente](https://github.com/RuanSalles/Material-Didatico-PHP/blob/main/Apresentando%20o%20PHP/preparando%20o%20ambiente.md)
 
 [1.3. Interface de linha de comando](https://github.com/RuanSalles/Material-Didatico-PHP/blob/main/Apresentando%20o%20PHP/Interface%20linha%20de%20comandos.md)
+
+[1.4 Primeiros Passos com PHP](https://github.com/RuanSalles/Material-Didatico-PHP/blob/main/Apresentando%20o%20PHP/primeiros%20passos.md)
