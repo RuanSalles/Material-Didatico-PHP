@@ -42,7 +42,8 @@ Vamos executar alguns comandos simples para nos ambientarmos com os retornos e o
 
 Abaixo temos alguns comandos PHP com descrições:
 
-~~~php
+```php
+<?php
 /* o comando echo realiza a impressão de um texto simples ou retorna a impressão de algum valor em forma de texto */
 
 // Impressão de texto simples
@@ -55,7 +56,7 @@ echo 2 + 2;
 
 // Impressão de uma multiplicação simples
 echo 6 * 987;
-~~~
+```
 
 A seguir temos a tela dos retornos dos comandos dentro do nosso **Shell Interativo do PHP**:
 
@@ -70,7 +71,7 @@ Da mesma maneira que existe a possibilidade de execução dos comandos do PHP di
 
 Inicialmente é importante entender a estrutura de um script **PHP**, abaixo você encontrará a estrutura básica para um script:
 
-~~~php
+```php
 
 <?php //TAG (comando) de abertura de um script PHP
 
@@ -88,17 +89,15 @@ echo 450 / 5 . PHP_EOL;
 /* Potenciação simples com PHP */ 
 echo 2 ** 3 . PHP_EOL
 
-//Fechamento do Script PHP
-?>
-~~~
+```
 
 > Em um Script que contenha apenas PHP não é necessário fechamento da TAG de abertura do PHP. O script irá ser executado sem falhas. Em caso de um script com formado **.php** mas que contenha alguma outra linguagem dentro do script será necessário o fechamento.
 
 Copie e cole o script, salve em um arquivo com o nome que preferir, colocando ao final **.php** como por exemplo: **script.php**, após isso abra um **Terminal** e digite o comando:
 
-~~~bash
+```bash
 php script.php
-~~~
+```
 
 Esse será o retorno que será impresso no seu Terminal:
 
