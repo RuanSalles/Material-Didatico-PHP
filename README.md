@@ -30,7 +30,7 @@ O treinamento também contará com vídeo-aulas dos módulos que serão trabalha
 5. [Exercícios de Fixação](https://github.com/RuanSalles/Material-Didatico-PHP/blob/main/Apresentando%20o%20PHP/Exercicios.md)
 
 #### 2. Sintaxe Básica
-1. Variáveis
+1. [Variáveis](https://github.com/RuanSalles/Material-Didatico-PHP/blob/main/Sintaxe%20Basica/Variaveis.md)
 2. Tipos de Dados
 3. Escopo de Documentos
 4. Operadores
